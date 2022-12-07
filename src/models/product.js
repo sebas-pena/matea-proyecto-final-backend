@@ -1,36 +1,49 @@
 const { Schema, model } = require("mongoose")
 
-const ProductSchema = new Schema({
-  title: {
-    type: String,
-    required: true
-  },
-  images: [String],
-  price: {
-    type: Number,
-    required: true
-  },
-  currency: {
-    type: String,
-    required: true
-  },
-  sale: {
-    type: Number,
-    default: 0
-  },
-  specs: {
-    type: [
-      {
-        title: String,
-        details: [{
+const ProductSchema = new Schema(
+  {
+    title: {
+      type: String,
+      required: true,
+    },
+    images: [String],
+    price: {
+      type: Number,
+      required: true,
+    },
+    category: {
+      required: true,
+      type: String,
+    },
+    currency: {
+      type: String,
+      required: true,
+    },
+    sale: {
+      type: Number,
+      default: 0,
+    },
+    specs: {
+      type: [
+        {
           title: String,
-          value: String
-        }]
-      },
-    ],
-    default: []
+          details: [
+            {
+              title: String,
+              value: String,
+              _id: false,
+            },
+          ],
+          _id: false,
+        },
+      ],
+      default: [],
+    },
+  },
+  {
+    versionKey: false,
   }
-})
+)
 /* 
 {
     title: "Garantía",
