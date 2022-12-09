@@ -18,6 +18,7 @@ const ProductSchema = new Schema({
     type: Number,
     default: 0
   },
+  category: String,
   specs: {
     type: [
       {
