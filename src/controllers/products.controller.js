@@ -2,18 +2,18 @@ const Product = require("../models/product")
 
 const createProduct = (req, res, next) => {
   Product.create(req.body)
-    .then(docs => {
+    .then((docs) => {
       console.log(docs)
       res.status(201).json(docs)
     })
-    .catch(e => {
+    .catch((e) => {
       console.log(e)
       next({ message: "Internal server error" })
     })
 }
 
 const getProduct = async (req, res, next) => {
-  const { category, id, title, page = 1, limit = 10, sale } = req.query
+  const { category, id, q, page = 1, limit = 10, sale } = req.query
 
   if (id) {
     Product.findById(id).then((product) => {
@@ -27,7 +27,9 @@ const getProduct = async (req, res, next) => {
     if (sale) {
       search.sale = { $gt: 0 }
     }
-    title && (search.title = title)
+    if (q !== undefined && q !== "") {
+      search.title = { $regex: new RegExp(q, "i") }
+    }
     const products = await Product.find(search)
       .limit(limit * 1)
       .skip((page - 1) * limit)
@@ -35,13 +37,12 @@ const getProduct = async (req, res, next) => {
 
     const count = await Product.find(search).countDocuments()
     console.log(search)
-
+    console.log(products)
     res.json({
       products,
       totalPages: Math.ceil(count / limit),
-      currentPage: page
+      currentPage: page,
     })
-
   }
 }
 
