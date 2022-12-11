@@ -5,7 +5,6 @@ const Session = async (req, res, next) => {
   const accessToken = req.headers['authorization'].split(" ").pop()
   if (!accessToken) next({ statusCode: 403, message: 'access denied' });
   const payload = parseToken(accessToken)
-  console.log(payload)
   if (payload) {
     const user = await USER.findById(payload.user._id)
     req.user = user
