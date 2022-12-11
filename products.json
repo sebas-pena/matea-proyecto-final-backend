@@ -220,6 +220,23 @@
 			}
 		]
 	},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	{
 		"title": "Mouse Razer DeathAdder V2 Lite",
 		"images": [
@@ -258,6 +275,691 @@
 					{
 						"title": "Teléfono",
 						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "El mouse inalámbrico para juegos HyperX Pulsefire Haste incluye todas las mejores características del ultraligero Pulsefire Haste más una conexión inalámbrica y una batería de larga duración, pero solo agrega 2 g de peso adicional. Si ha dudado en cortar el cable del mouse, no se preocupe, ya que la velocidad de respuesta de 1 ms y la señal de 2,4 GHz de Pulsefire Haste proporcionan una conexión inalámbrica de baja latencia que satisface las demandas de los jugadores de élite. No solo eso, sino que con hasta 100 horas de duración de la batería, obtendrá más de 4 días completos de hacer clic en las cabezas con una sola carga de su mouse de panal. Con un diseño receptivo de botones divididos, no tendrá que preocuparse por los clics perdidos, ya que los microinterruptores TTC Golden táctiles y satisfactorios tienen una clasificación de hasta 80 millones de clics. Si prefieres un cable"
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Mouse Logitech G502 X Plus White",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/11/5022_1_3decb42b5d6143e7a2e367eeae820283.jpg"
+			
+		],
+		"price": 169,
+		"currency": "U$S",
+		"category": "peripheral",
+		"sale": 10,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Logitech "
+					},
+					{
+						"title": "Modelo",
+						"value": "G502"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "3 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "El mouse inalámbrico para juegos HyperX Pulsefire Haste incluye todas las mejores características del ultraligero Pulsefire Haste más una conexión inalámbrica y una batería de larga duración, pero solo agrega 2 g de peso adicional. Si ha dudado en cortar el cable del mouse, no se preocupe, ya que la velocidad de respuesta de 1 ms y la señal de 2,4 GHz de Pulsefire Haste proporcionan una conexión inalámbrica de baja latencia que satisface las demandas de los jugadores de élite. No solo eso, sino que con hasta 100 horas de duración de la batería, obtendrá más de 4 días completos de hacer clic en las cabezas con una sola carga de su mouse de panal. Con un diseño receptivo de botones divididos, no tendrá que preocuparse por los clics perdidos, ya que los microinterruptores TTC Golden táctiles y satisfactorios tienen una clasificación de hasta 80 millones de clics. Si prefieres un cable"
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Mouse Logitech G203 negro + Mouse pad G240 de obsequio!",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/08/g203obsequio.png"
+			
+		],
+		"price": 30,
+		"currency": "U$S",
+		"category": "peripheral",
+		"sale": 0,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Logitech"
+					},
+					{
+						"title": "Modelo",
+						"value": "G203 negro"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "3 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					}
+					,
+					{
+						"title": "Descripción",
+						"value": "Aprovecha al máximo tu tiempo de juego con el G203, un mouse para juegos disponible en una variedad de vibrantes colores. Con la tecnología LIGHTSYNC, un sensor para juegos y un diseño clásico de 6 botones, animarás tu acción y tu espacio"
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Combo Redragon Mouse Inalámbrico + Mousepad M601WL-BA",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/06/3525_2_ee46dadfe64443c190c6920a67290cb6.png"
+			
+		],
+		"price": 19,
+		"currency": "U$S",
+		"category": "peripheral",
+		"sale": 0,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Redragon "
+					},
+					{
+						"title": "Modelo",
+						"value": "M601WL-BA"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "3 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": " El Centrophorus es un ratón ambidiestro, ergonómico, con un muy buen agarre y seis botones (uno de ellos, dedicado para cambio de DPI al vuelo). Pero llega aquí con una gran innovación; ésta es su versión wireless, de 2,4 Ghz con dongle USB. Mayor comodidad para un ratón que ya era muy cómodo"
+					}
+				]
+			}
+		]
+	},
+
+
+	{
+		"title": "Mouse Logitech G705 The Aurora Collection Inalámbrico",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/09/Logitech-G705-The-Aurora-Collection.png"
+			
+		],
+		"price": 101,
+		"currency": "U$S",
+		"category": "peripheral",
+		"sale": 10,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Logitech"
+					},
+					{
+						"title": "Modelo",
+						"value": "G705"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "9 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "De The Aurora Collection, el mouse inalámbrico G705 para juegos tiene una forma pensada para el confort y el control, con un diseño también apto para manos pequeñas. Con tecnología inalámbrica LIGHTSPEED para juegos, RGB LIGHTSYNC y tecnología avanzada para juegos"
+					}
+				]
+			}
+		]
+	},
+
+
+	{
+		"title": "Mouse Redragon Gainer M610",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/12/5070_1_ee39c63d0bd9491580654429deae6f63.jpg"
+			
+		],
+		"price": 15,
+		"currency": "U$S",
+		"category": "peripheral",
+		"sale": 5,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Redragon"
+					},
+					{
+						"title": "Modelo",
+						"value": "M610"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "3 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Lo que necesitas para competir, sin ornamentos triviales. El Gainer es un clásico ratón gamer, con seis botones, cambio de DPI on-the-fly, sensor óptico, un excelente diseño ergonómico y pads de teflón. Además, claro, iluminación RGB. Es simple: ve y gana"
+					}
+				]
+			}
+		]
+	},
+
+
+	{
+		"title": "Combo Redragon x 3 White Teclado Dragonborn + Mouse Griffin + Auricular Pandora",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/12/5068_1_b028e69ed3b140f7a80fc2a7e4caebd2.jpg"
+			
+		],
+		"price": 99,
+		"currency": "U$S",
+		"category": "peripheral",
+		"sale": 10,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Redragon"
+					},
+					{
+						"title": "Modelo",
+						"value": "White"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "3 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Lo que necesitas para competir, sin ornamentos triviales. El Gainer es un clásico ratón gamer, con seis botones, cambio de DPI on-the-fly, sensor óptico, un excelente diseño ergonómico y pads de teflón. Además, claro, iluminación RGB. Es simple: ve y gana"
+					}
+				]
+			}
+		]
+	},
+
+
+	{
+		"title": "Combo Redragon White Teclado Kumara RGB + Mouse Griffin",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/12/5067_1_366b9738334d4f2ca077e1b8e0128d93.jpg"
+			
+		],
+		"price":  59,
+		"currency": "U$S",
+		"category": "peripheral",
+		"sale": 10,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Redragon"
+					},
+					{
+						"title": "Modelo",
+						"value": "Griffin"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "3 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Lo que necesitas para competir, sin ornamentos triviales. El Gainer es un clásico ratón gamer, con seis botones, cambio de DPI on-the-fly, sensor óptico, un excelente diseño ergonómico y pads de teflón. Además, claro, iluminación RGB. Es simple: ve y gana"
+					}
+				]
+			}
+		]
+	},
+
+
+	{
+		"title": "Combo Redragon Teclado Kumara RGB + Mouse Griffin",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/12/4939_2_6dad1543a64049f39ca4b420a551e1c9.jpg"
+			
+		],
+		"price": 59,
+		"currency": "U$S",
+		"category": "peripheral",
+		"sale": 10,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Kumara"
+					},
+					{
+						"title": "Modelo",
+						"value": "Griffin"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "3 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "De The Aurora Collection, el mouse inalámbrico G705 para juegos tiene una forma pensada para el confort y el control, con un diseño también apto para manos pequeñas. Con tecnología inalámbrica LIGHTSPEED para juegos, RGB LIGHTSYNC y tecnología avanzada para juegos"
+					}
+				]
+			}
+		]
+	},
+
+
+	{
+		"title": "Mouse Hyperx Pulsefire Haste Wireless Black",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/11/5033_1_4f3a10b654244d139a1983396932ad57.jpg"
+			
+		],
+		"price": 79,
+		"currency": "U$S",
+		"category": "peripheral",
+		"sale": 10,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Hyperx"
+					},
+					{
+						"title": "Modelo",
+						"value": "Pulsefire"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "3 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "El mouse inalámbrico para juegos HyperX Pulsefire Haste incluye todas las mejores características del ultraligero Pulsefire Haste más una conexión inalámbrica y una batería de larga duración, pero solo agrega 2 g de peso adicional. Si ha dudado en cortar el cable del mouse, no se preocupe, ya que la velocidad de respuesta de 1 ms y la señal de 2,4 GHz de Pulsefire Haste proporcionan una conexión inalámbrica de baja latencia que satisface las demandas de los jugadores de élite. No solo eso, sino que con hasta 100 horas de duración de la batería, obtendrá más de 4 días completos de hacer clic en las cabezas con una sola carga de su mouse de panal. Con un diseño receptivo de botones divididos, no tendrá que preocuparse por los clics perdidos, ya que los microinterruptores TTC Golden táctiles y satisfactorios tienen una clasificación de hasta 80 millones de clics. Si prefieres un cable"
+					}
+				]
+			}
+		]
+	},
+
+
+	{
+		"title": "Hyperx Pulsefire DART GLOBAL Wireless",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2020/04/fotoskingston-1.png"
+			
+		],
+		"price": 110,
+		"currency": "U$S",
+		"category": "peripheral",
+		"sale": 20,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Hyperx"
+					},
+					{
+						"title": "Modelo",
+						"value": "DART"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "3 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "HyperX Pulsefire Dart™ es un mouse inalámbrico para juegos con una conexión RF de 2,4 GHz confiable que lo hará preguntarse por qué esperó tanto para cortar el cable. Se incluye un adaptador inalámbrico para ampliar el alcance de las configuraciones de PC de escritorio. Tiene certificación Qi para carga inalámbrica[1] y puede durar hasta 50 horas[2] con una sola carga. Con un sensor Pixart 3389 y un diseño de botón dividido con interruptores Omron confiables, tendrá toda la precisión que necesita para aplastar a la competencia. Tiene una forma ergonómica y cuenta con empuñaduras laterales acolchadas de cuero sintético diseñadas para mantenerte cómodo durante esas largas noches de juego. Personalice la iluminación RGB, cree macros, administre la duración de la batería y ajuste la configuración de DPI con el software HyperX NGENUITY fácil de usar"
+					}
+				]
+			}
+		]
+	},
+
+
+	{
+		"title": "Mouse Logitech G502 X Plus",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/11/5021_1_e557ff569de341a1a55f1e3e7878a0d7.jpg"
+			
+		],
+		"price": 169,
+		"currency": "U$S",
+		"category": "peripheral",
+		"sale": 10,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Logitech"
+					},
+					{
+						"title": "Modelo",
+						"value": "G502"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "3 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "G502 X PLUS es la última adición a la legendaria gama G502. Reinventado con nuestros primerísimos interruptores híbridos LIGHTFORCE, tecnología inalámbrica LIGHTSPEED de nivel profesional, RGB LIGHTSYNC, sensor HERO 25K, etc"
+					}
+				]
+			}
+		]
+	},
+
+
+	{
+		"title": "Mouse Logitech G203 Lightsync Blue",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2020/12/G203-3.png"
+			
+		],
+		"price": 30,
+		"currency": "U$S",
+		"category": "peripheral",
+		"sale": 15,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Logitech"
+					},
+					{
+						"title": "Modelo",
+						"value": "G203"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "3 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Aprovecha al máximo tu tiempo de juego con el G203, un mouse para juegos disponible en una variedad de vibrantes colores. Con la tecnología LIGHTSYNC, un sensor para juegos y un diseño clásico de 6 botones, animarás tu acción y tu espacio"
+					}
+				]
+			}
+		]
+	},
+
+
+	{
+		"title": "Mouse Logitech G403 Gaming Hero",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2017/04/Logitech-G403-Gaming-Hero.png"
+			
+		],
+		"price": 54,
+		"currency": "U$S",
+		"category": "peripheral",
+		"sale": 10,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Logitech "
+					},
+					{
+						"title": "Modelo",
+						"value": "G403"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "3 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Diseñado para la comodidad, el G403 está contorneado con empuñaduras de goma para un mayor control. El sensor HERO 25K permite realizar un seguimiento a nivel submicrónico. LIGHTSYNC RGB de espectro completo y 6 botones programables te dan el control"
+					}
+				]
+			}
+		]
+	},
+
+
+	{
+		"title": "Mouse Logitech G305 Lightspeed Inalámbrico Mint",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2021/11/Mouse-Logitech-G305-Lightspeed-Inalambrico-Mint.png"
+			
+		],
+		"price": 41,
+		"currency": "U$S",
+		"category": "peripheral",
+		"sale": 10,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Logitech"
+					},
+					{
+						"title": "Modelo",
+						"value": "G305"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "3 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Mouse inalámbrico para juegos LIGHTSPEED diseñado para un desempeño excelente con las innovaciones tecnológicas más recientes. Impresionante duración de baterías de 250 horas. Ahora en una variedad de vibrantes colores"
 					}
 				]
 			}
@@ -303,6 +1005,10 @@
 					{
 						"title": "Teléfono",
 						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "El mouse inalámbrico para juegos HyperX Pulsefire Haste incluye todas las mejores características del ultraligero Pulsefire Haste más una conexión inalámbrica y una batería de larga duración, pero solo agrega 2 g de peso adicional. Si ha dudado en cortar el cable del mouse, no se preocupe, ya que la velocidad de respuesta de 1 ms y la señal de 2,4 GHz de Pulsefire Haste proporcionan una conexión inalámbrica de baja latencia que satisface las demandas de los jugadores de élite. No solo eso, sino que con hasta 100 horas de duración de la batería, obtendrá más de 4 días completos de hacer clic en las cabezas con una sola carga de su mouse de panal. Con un diseño receptivo de botones divididos, no tendrá que preocuparse por los clics perdidos, ya que los microinterruptores TTC Golden táctiles y satisfactorios tienen una clasificación de hasta 80 millones de clics. Si prefieres un cable"
 					}
 				]
 			}
@@ -346,11 +1052,65 @@
 					{
 						"title": "Teléfono",
 						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "El mouse inalámbrico para juegos HyperX Pulsefire Haste incluye todas las mejores características del ultraligero Pulsefire Haste más una conexión inalámbrica y una batería de larga duración, pero solo agrega 2 g de peso adicional. Si ha dudado en cortar el cable del mouse, no se preocupe, ya que la velocidad de respuesta de 1 ms y la señal de 2,4 GHz de Pulsefire Haste proporcionan una conexión inalámbrica de baja latencia que satisface las demandas de los jugadores de élite. No solo eso, sino que con hasta 100 horas de duración de la batería, obtendrá más de 4 días completos de hacer clic en las cabezas con una sola carga de su mouse de panal. Con un diseño receptivo de botones divididos, no tendrá que preocuparse por los clics perdidos, ya que los microinterruptores TTC Golden táctiles y satisfactorios tienen una clasificación de hasta 80 millones de clics. Si prefieres un cable"
 					}
 				]
 			}
 		]
 	},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	{
 		"title": "Gigabyte B450M DS3H",
 		"images": [
@@ -393,7 +1153,558 @@
 			}
 		]
 	},
-	
+	{
+		"title": "Gigabyte B660M DS3H DDR4",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/03/b660md27024_8bdedd5cd3e446b0b76618e18648bca2.jpg"
+		],
+		"price": 199,
+		"currency": "U$S",
+		"category": "motherboard",
+		"sale": 5,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Gigabyte"
+					},
+					{
+						"title": "Modelo",
+						"value": "B660M"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "6 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Placa base Intel ® B660 con VRM digital híbrido de 6+2+1 fases con disipador térmico MOS, 2 x PCIe 4.0 M.2 con protección térmica, LAN de 2,5 GbE, USB 3.2 trasero Gen 2 Type-C ® , RGB FUSION 2.0, Q-Flash más" 
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Asrock A320M-hdv AM4",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2017/12/549179601asrock_513cd2838ee64f338d70d223e3467232.jpg"
+		],
+		"price": 70,
+		"currency": "U$S",
+		"category": "motherboard",
+		"sale": 15,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Asrock"
+					},
+					{
+						"title": "Modelo",
+						"value": "A320M"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "6 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "ASRock Super Alloy soporta los procesadores AMD Socket AM4 A-Series APU (Bristol Ridge) y las CPUs de la serie Ryzen (Summit Ridge)Soporta DDR4 3200+ (OC) (CPU Ryzen) / 2400 (A-series APU)" 
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Gigabyte B460M DS3H",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2018/11/B450m.jpg"
+		],
+		"price": 100,
+		"currency": "U$S",
+		"category": "motherboard",
+		"sale": 15,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Gigabyte"
+					},
+					{
+						"title": "Modelo",
+						"value": "B460M"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "6 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "AMD B450 Ultra Durable Motherboard with Realtek® GbE LAN with cFosSpeed, PCIe Gen3 x4 M.2, 7-colors RGB LED Strips Support, Anti-Sulfur Resistor, CEC 2019 ready" 
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "BIOSTAR A520MH",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2021/01/a520.png"
+		],
+		"price": 95,
+		"currency": "U$S",
+		"category": "motherboard",
+		"sale": 5,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "BIOSTAR"
+					},
+					{
+						"title": "Modelo",
+						"value": "A520MH"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "6 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Soporta procesadores AMD Ryzen 3 rd Gen (Matisse / Renoir) y 4 th Gen (Vermeer)" 
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Gigabyte B450M GAMING",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2019/11/102875120190131151052345017b456c76bbcab49d74b18210fd1f5_src_0b4c731380db42a3afcc9e179f19aab2.png"
+		],
+		"price": 105,
+		"currency": "U$S",
+		"category": "motherboard",
+		"sale": 0,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Gigabyte"
+					},
+					{
+						"title": "Modelo",
+						"value": "B450M"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "6 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Placa madre para juegos AMD B450 con PWM digital híbrido, LAN para juegos GIGABYTE con gestión de ancho de banda, PCIe Gen3 x4 M.2, soporte de tiras de LED RGB de 7 colores, diseño de resistencias anti-azufre" 
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Biostar B550MH",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/03/550mh33463_916f1514f1e14377b8ec3d0175060be4.jpg"
+		],
+		"price": 99,
+		"currency": "U$S",
+		"category": "motherboard",
+		"sale": 5,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Biostar"
+					},
+					{
+						"title": "Modelo",
+						"value": "B550MH"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "6 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Placa madre para juegos AMD B450 con PWM digital híbrido, LAN para juegos GIGABYTE con gestión de ancho de banda, PCIe Gen3 x4 M.2, soporte de tiras de LED RGB de 7 colores, diseño de resistencias anti-azufre" 
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Mother Gigabyte A520M-H AM4",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/02/a52072625_3900c0e646844c269d9cd8789b84b830.jpg"
+		],
+		"price": 97,
+		"currency": "U$S",
+		"category": "motherboard",
+		"sale": 5,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Gigabyte"
+					},
+					{
+						"title": "Modelo",
+						"value": "A520M"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "6 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Placa base ultraduradera AMD A520 con solución VRM digital pura, LAN para juegos GIGABYTE con gestión de ancho de banda, PCIe 3.0 x4 M.2, RGB FUSION 2.0, Smart Fan 5, Q-Flash Plus, diseño de resistencias antisulfuro" 
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Mother Biostar B450M-GT3",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/01/450gt334783_277aeb9e9740410eb0f41110ddec3a57.jpg"
+		],
+		"price": 120,
+		"currency": "U$S",
+		"category": "motherboard",
+		"sale": 5,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Biostar"
+					},
+					{
+						"title": "Modelo",
+						"value": "B450M"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "6 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Placa base ultraduradera AMD A520 con solución VRM digital pura, LAN para juegos GIGABYTE con gestión de ancho de banda, PCIe 3.0 x4 M.2, RGB FUSION 2.0, Smart Fan 5, Q-Flash Plus, diseño de resistencias antisulfuro" 
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Mother Asus TUF B550M Gaming",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/10/3160_2_af067b519b07494a9fa1273dd234f51c.jpg"
+		],
+		"price": 240,
+		"currency": "U$S",
+		"category": "motherboard",
+		"sale": 15,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Asus"
+					},
+					{
+						"title": "Modelo",
+						"value": "B550M"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "6 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Placa madre de juegos micro ATX AMD B550 (Ryzen AM4) con PCIe 4.0, M.2 dual, 10 etapas de potencia DrMOS, 2.5 Gb Ethernet, HDMI, DisplayPort, SATA 6 Gbps, USB 3.2 Gen 2 Tipo-A y Tipo-C, y Aura Soporte de iluminación RGB Sync" 
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Asrock H510M-HVS R2.0",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/05/3977_2_91dbf9202a8c4319a6c9c6c9c357f8f7.png"
+		],
+		"price": 85,
+		"currency": "U$S",
+		"category": "motherboard",
+		"sale": 10,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Asrock"
+					},
+					{
+						"title": "Modelo",
+						"value": "H510M"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "6 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Soporta procesadores Intel® Core™ de 10ª generación y procesadores Intel® Core™ de 11ª generación (LGA1200)" 
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "BIOSTAR H81M HV3 2.0 – Socket 1150",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/04/h81m60384_1c2d053d4fa54154baa0c56daff9567e.jpg"
+		],
+		"price": 89,
+		"currency": "U$S",
+		"category": "motherboard",
+		"sale": 15,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "BIOSTAR"
+					},
+					{
+						"title": "Modelo",
+						"value": "H81M"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "6 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Supports the Intel 4th generation Core i7 and Core i5 processors in the 1150 package" 
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Gigabyte H410M H V3",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2020/07/h410m.jpg"
+		],
+		"price": 90,
+		"currency": "U$S",
+		"category": "motherboard",
+		"sale": 5,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Gigabyte"
+					},
+					{
+						"title": "Modelo",
+						"value": "H410M"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "6 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Placa madre Intel ® H410 Ultra Durable con GIGABYTE 8118 Gaming LAN, resistencia anti-azufre, Smart Fan 5" 
+					}
+				]
+			}
+		]
+	},
 	{
 		"title": "Asus ROG Strix B660-A Gaming WiFi D4",
 		"images": [
@@ -431,6 +1742,10 @@
 					{
 						"title": "Teléfono",
 						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Placa madre Intel ® H410 Ultra Durable con GIGABYTE 8118 Gaming LAN, resistencia anti-azufre, Smart Fan 5" 
 					}
 				]
 			}
@@ -475,11 +1790,67 @@
 					{
 						"title": "Teléfono",
 						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Placa madre Intel ® H410 Ultra Durable con GIGABYTE 8118 Gaming LAN, resistencia anti-azufre, Smart Fan 5" 
 					}
 				]
 			}
 		]
 	},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	{
 		"title": "AMD Ryzen 5 5600G con Gráficos Radeon",
 		"images": [
@@ -523,6 +1894,557 @@
 		]
 	},
 	{
+		"title": "Intel Core i7 10700 2.90GHz 16MB LGA1200 10th Gen",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2020/08/procesador-intel-core-i7-10700-29-ghz-8-nucleos-D_NQ_NP_670940-MLU42461771079_072020-F.jpg"
+		],
+		"price": 435,
+		"currency": "U$S",
+		"category": "cpu",
+		"sale": 30,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Intel"
+					},
+					{
+						"title": "Modelo",
+						"value": "i7 10700"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Cantidad de núcleos 8" 
+					}
+				]
+			}
+		]
+	},{
+		"title": "AMD Athlon 3000G",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2020/02/961173241833191_65ed08edb887458e85f184712180d2a9-600x600_3b5b56098bf84867aa41a7883de1e6c1.jpg"
+		],
+		"price": 80,
+		"currency": "U$S",
+		"category": "cpu",
+		"sale": 20,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "AMD "
+					},
+					{
+						"title": "Modelo",
+						"value": "3000G"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "N.° de núcleos de CPU: 2" 
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "AMD Ryzen 3 4100",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/06/4804_1_b85760fb30f14b8daa42815b8bd92d74.jpg"
+		],
+		"price": 100,
+		"currency": "U$S",
+		"category": "cpu",
+		"sale": 10,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "AMD"
+					},
+					{
+						"title": "Modelo",
+						"value": "Ryzen 3 4100"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "núcleos de CPU 4" 
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "AMD Ryzen 3 PRO 4350G con Gráficos Radeon",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/03/imagen86158_b1d4e4cefc1b4fb1aed54df356642393.jpg"
+		],
+		"price": 149,
+		"currency": "U$S",
+		"category": "cpu",
+		"sale": 5,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "AMD"
+					},
+					{
+						"title": "Modelo",
+						"value": "Ryzen 3 PRO 4350G"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "núcleos de CPU 4" 
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "AMD Ryzen 5 4600G con Gráficos Radeon",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/10/4993_1_07ffe51b73414c969f0ae2f133b5d40d.jpg"
+		],
+		"price": 190,
+		"currency": "U$S",
+		"category": "cpu",
+		"sale": 10,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "AMD"
+					},
+					{
+						"title": "Modelo",
+						"value": "Ryzen 5 4600G"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "núcleos de CPU" 
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "AMD Ryzen 5 4600G con Gráficos Radeon",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/10/4993_1_07ffe51b73414c969f0ae2f133b5d40d.jpg"
+		],
+		"price": 190,
+		"currency": "U$S",
+		"category": "cpu",
+		"sale": 50,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "AMD"
+					},
+					{
+						"title": "Modelo",
+						"value": "Ryzen 5 4600G"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "núcleos de CPU 6" 
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "NUEVO AMD Ryzen 5 7600X AM5",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/09/4923_1_ee774f6a18a342f2a3198fbc3fd42e15.jpg"
+		],
+		"price": 469,
+		"currency": "U$S",
+		"category": "cpu",
+		"sale": 0,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "AMD"
+					},
+					{
+						"title": "Modelo",
+						"value": "Ryzen 5 7600X"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "núcleos de CPU 6" 
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "AMD Ryzen 7 5700G con Gráficos Radeon",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2021/08/R725205800x60645_e37da6f08ca84979a2c43abeb56bae57.jpg"
+		],
+		"price": 450,
+		"currency": "U$S",
+		"category": "cpu",
+		"sale": 0,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "AMD"
+					},
+					{
+						"title": "Modelo",
+						"value": "Ryzen 7 5700G"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": " núcleos de CPU 8" 
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "AMD Ryzen 9 5900X AM4",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2020/12/amd_100_100000059wof_ryzen_9_5950x_3_4_1598372.jpg"
+		],
+		"price":  640,
+		"currency": "U$S",
+		"category": "cpu",
+		"sale": 10,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "AMD"
+					},
+					{
+						"title": "Modelo",
+						"value": "Ryzen 9 5900X"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "núcleos de CPU 12" 
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Intel Pentium Gold G6405 2 núcleos 4 hilos",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2021/12/1908350intel-pentium-gold-g5400-boxed_4eaa3ce281ca4a2c8488ca1e279b0ecb252025281252915492_33e6b5d983f64bc8a83a5064b0e17768.jpg"
+		],
+		"price": 84,
+		"currency": "U$S",
+		"category": "cpu",
+		"sale": 10,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Intel"
+					},
+					{
+						"title": "Modelo",
+						"value": "Pentium"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Cantidad de núcleos: 2" 
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Intel Core i3 10100f 3.60GHz 6MB LGA1200 10th Gen",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2020/07/procesador-intel-core-i3-10ma-generacion-diginet-D_NQ_NP_843853-MLU42770096830_072020-F.jpg"
+		],
+		"price": 104,
+		"currency": "U$S",
+		"category": "cpu",
+		"sale": 30,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Intel"
+					},
+					{
+						"title": "Modelo",
+						"value": "i3 10100f"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": " núcleos: 4" 
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "INTEL Core i5 9400F Coffee Lake 9na Gen",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2019/01/13965839na_79d717d658a248819e2f24cb81e22115.jpg"
+		],
+		"price": 235,
+		"currency": "U$S",
+		"category": "cpu",
+		"sale": 20,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "INTEL"
+					},
+					{
+						"title": "Modelo",
+						"value": "i5 9400F"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Cantidad de núcleos 6" 
+					}
+				]
+			}
+		]
+	},
+	{
 		"title": "NUEVO AMD Ryzen 9 7950X AM5",
 		"images": [
 			"https://thotcomputacion.com.uy/wp-content/uploads/2022/10/4961_1_ed639f06efaa4bed83d6dfda93c467f4.jpg"
@@ -559,6 +2481,10 @@
 					{
 						"title": "Teléfono",
 						"value": "2400 3008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Cantidad de núcleos 6" 
 					}
 				]
 			}
@@ -601,11 +2527,55 @@
 					{
 						"title": "Teléfono",
 						"value": "2400 2008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Cantidad de núcleos 6" 
 					}
 				]
 			}
 		]
 	},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	{
 		"title": "GPU Zotac GeForce RTX 4090 Trinity OC 24Gb",
 		"images": [
@@ -648,6 +2618,577 @@
 			}
 		]
 	},
+	{
+		"title": "GPU Biostar GeForce G210 1Gb GDDR3",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2021/11/g21082181_af2896c8b96f44e2ac5fa97ab6f71a17.jpg"
+		],
+		"price": 48,
+		"currency": "U$S",
+		"category": "gpu",
+		"sale": 10,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "GeForce"
+					},
+					{
+						"title": "Modelo",
+						"value": "G210 1Gb GDDR3"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 2008"
+					},
+					{
+						"title": "Descripción",
+						"value": "High speed 1024MB memor" 
+					}
+				]
+			}
+		]
+	},{
+		"title": "Afox GeForce GTX1030 2Gb ddr5",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2021/05/10302520af82618_eadd82a565c945bfae176867485ce1e7.jpg"
+		],
+		"price": 100,
+		"currency": "U$S",
+		"category": "gpu",
+		"sale": 5,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "GeForce"
+					},
+					{
+						"title": "Modelo",
+						"value": "GTX1030"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 2008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Bus De Memoria 128 bit" 
+					}
+				]
+			}
+		]
+	},{
+		"title": "GPU Asus GeForce GTX 1630 Phoenix 4GB",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/10/4958_1_f4792d40ba964f8d8eea5bc360c19bee.jpg"
+		],
+		"price": 275,
+		"currency": "U$S",
+		"category": "gpu",
+		"sale": 10,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Asus"
+					},
+					{
+						"title": "Modelo",
+						"value": "GTX 1630 Phoenix 4GB"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 2008"
+					},
+					{
+						"title": "Descripción",
+						"value": "La ASUS Phoenix GeForce® GTX 1630 está construida con el potente rendimiento de gráficos de la galardonada arquitectura NVIDIA Turing™. Mejora tus juegos con GeForce GTX" 
+					}
+				]
+			}
+		]
+	},{
+		"title": "GPU Palit GeForce GTX1650 GP 4GB DDR6",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/02/palit252016504174_2ebcd1aab76e4f659e68d727352aa77e.jpg"
+		],
+		"price": 295,
+		"currency": "U$S",
+		"category": "gpu",
+		"sale": 0,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Palit"
+					},
+					{
+						"title": "Modelo",
+						"value": "GTX1650"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 2008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Cantidad de memoria 4G" 
+					}
+				]
+			}
+		]
+	},{
+		"title": "GPU PNY GeForce RTX 3060 Verto Dual 12GB DDR6",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/12/5061_1_ff048bddbdd24e74b2305bbd7c2ec662.jpg"
+		],
+		"price": 575,
+		"currency": "U$S",
+		"category": "gpu",
+		"sale": 10,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "PNY "
+					},
+					{
+						"title": "Modelo",
+						"value": "RTX 3060 "
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 2008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Velocidad de reloj 1320 MHz" 
+					}
+				]
+			}
+		]
+	},{
+		"title": "GPU Gigabyte GeForce RTX3050 OC 8Gb",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/03/gigabyte-tarjeta-grafica-geforce-rtx-3050-gaming-oc-8gb-gddr651663_1af4334480b74c1f8b1c83e2ba49f096.jpg"
+		],
+		"price": 525,
+		"currency": "U$S",
+		"category": "gpu",
+		"sale": 20,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Gigabyte "
+					},
+					{
+						"title": "Modelo",
+						"value": "RTX3050 OC 8Gb"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 2008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Core Clock 1822 MHz (Reference Card: 1777 MHz)" 
+					}
+				]
+			}
+		]
+	},{
+		"title": "GPU Asus GeForce RTX 3070 KO 8GB GDDR6",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/03/GPU-Asus-GeForce-RTX-3070-KO-8GB-GDDR6.png"
+		],
+		"price": 1025,
+		"currency": "U$S",
+		"category": "gpu",
+		"sale": 15,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Asus"
+					},
+					{
+						"title": "Modelo",
+						"value": "RTX 3070 KO 8GB GDDR6"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 2008"
+					},
+					{
+						"title": "Descripción",
+						"value": "ASUS KO GeForce RTX™ 3070 OC Edition 8GB GDDR6 agrega un toque de estilo a la experiencia de juego de próxima generación" 
+					}
+				]
+			}
+		]
+	},{
+		"title": "BIOSTAR Radeon RX560 4gb gddr5",
+		"images": [
+			"image.png"
+		],
+		"price": 225,
+		"currency": "U$S",
+		"category": "gpu",
+		"sale": 0,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "BIOSTAR"
+					},
+					{
+						"title": "Modelo",
+						"value": "RX560"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 2008"
+					},
+					{
+						"title": "Descripción",
+						"value": "4GB GDDR5, 128bit with DVI/Display port/HDMI output" 
+					}
+				]
+			}
+		]
+	},{
+		"title": "Gigabyte Radeon RX6600 XT GAMING OC PRO 8G",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/03/6600xt58759_f4d308a3f0c448c6b5705bfba51f5eb1.jpg"
+		],
+		"price": 850,
+		"currency": "U$S",
+		"category": "gpu",
+		"sale": 20,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Gigabyte"
+					},
+					{
+						"title": "Modelo",
+						"value": "Radeon RX6600 XT"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 2008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Boost Clock* : hasta 2607 MHz (Tarjeta de referencia: 2589 MHz)" 
+					}
+				]
+			}
+		]
+	},{
+		"title": "GPU MSI Radeon RX6600XT 8Gb GDDR6",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/05/4700_1_f1a822beed3a480b896f6b6f7fc150b8.jpg"
+		],
+		"price": 589,
+		"currency": "U$S",
+		"category": "gpu",
+		"sale": 10,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "MSI"
+					},
+					{
+						"title": "Modelo",
+						"value": "Radeon RX6600XT"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 2008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Prepárate para un extraordinario desempeño gaming en 1080p. Las tarjetas gráficas MSI Radeon™ RX 6600 XT cuentan con la arquitectura de vanguardia AMD RDNA™ 2. Ideada para ofrecer una experiencia increíble de juego en 1080p, AMD Radeon™ RX 6600 XT impulsa la próxima generación de juegos con imágenes vivaces y experiencias elevadas." 
+					}
+				]
+			}
+		]
+	},{
+		"title": "GPU MSI Radeon RX6700 XT GAMING X 12G",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2021/06/670041897_8f411624da3f4038bca7a07aed637f86.jpg"
+		],
+		"price": 790,
+		"currency": "U$S",
+		"category": "gpu",
+		"sale": 10,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "MSI"
+					},
+					{
+						"title": "Modelo",
+						"value": "Radeon RX6700 XT"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 2008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Desempeño para dominar el juego. Las tarjetas gráficas AMD Radeon™ RX 6700 XT AMD Radeon™ RX 6700 XT, impulsadas por la arquitectura AMD RDNA™ 2, cuentan con 40 Unidades de Computación poderosas, el nuevo Cache AMD Infinity y 12GB de memoria GDDR6 dedicada, proyectadas para ofrecer FPS ultra altos y el juego poderoso con resolución 1440p" 
+					}
+				]
+			}
+		]
+	},{
+		"title": "GPU Gigabyte Radeon RX6500XT Eagle 4Gb",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/03/6500eag56523_0f2c2569878c4f1bac08fb5f4ce46214.jpg"
+		],
+		"price": 390,
+		"currency": "U$S",
+		"category": "gpu",
+		"sale": 10,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Gigabyte"
+					},
+					{
+						"title": "Modelo",
+						"value": "RX6500XT"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 2008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Powered by AMD RDNA™ 2 Radeon™ RX 6500 XT Integrated with 4GB GDDR6 64-bit memory interface WINDFORCE 2X Cooling System with alternate spinning fans Graphene nano lubricant" 
+					}
+				]
+			}
+		]
+	},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	{
 		"title": "GPU Palit GeForce RTX 3080TI GameRock 12Gb GDDR6X",
 		"images": [
@@ -774,6 +3315,67 @@
 			}
 		]
 	},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	{
 		"title": "Gabinete NZXT H710i Black/Red",
 		"images": [
@@ -815,8 +3417,420 @@
 				]
 			}
 		]
+	},{
+		"title": "Gabinete combo genérico",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2019/07/combo.png"
+		],
+		"price": 60,
+		"currency": "U$S",
+		"category": "pc-box",
+		"sale": 10,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "genérico"
+					},
+					{
+						"title": "Modelo",
+						"value": "genérico"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 2008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Gabinete genéric"						
+					}
+				]
+			}
+		]
 	},
-
+	{
+		"title": "Gabinete Cooler Master Q300L Rainbow",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/06/2499_2_63365cb8baa446dd9b7299e5ec34cb50.jpg"
+		],
+		"price": 65,
+		"currency": "U$S",
+		"category": "pc-box",
+		"sale": 0,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Cooler"
+					},
+					{
+						"title": "Modelo",
+						"value": "Q300L"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 2008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Alta flexibilidad para la construcción del sistema " 
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Gabinete Cooler Master TD300 Mesh White",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/06/4779_1_05d240444e604b7cbd6d9e190278e1ba.jpg"
+		],
+		"price": 104,
+		"currency": "U$S",
+		"category": "pc-box",
+		"sale": 20,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Cooler"
+					},
+					{
+						"title": "Modelo",
+						"value": "TD300"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 2008"
+					},
+					{
+						"title": "Descripción",
+						"value": "gabinete bonito" 
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Gabinete Cooler Master Silencio S400 Sakura",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/11/5048_1_6d444fcb9ac94924b8560f19c96dee1f.jpg"
+		],
+		"price": 135,
+		"currency": "U$S",
+		"category": "pc-box",
+		"sale": 10,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Master"
+					},
+					{
+						"title": "Modelo",
+						"value": "S400"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 2008"
+					},
+					{
+						"title": "Descripción",
+						"value": "El desarrollo de productos Silencio está impulsado por  Cam64 de Sorama ; esto permitió analizar visualmente todo el espectro de sonido por fuente, patrón de resonancia y frecuencia. Con la identificación de picos dentro de ciertos rangos de frecuencia, fue posible afinar el Silencio para la dispersión de la resonancia, reduciendo el protagonismo del ruido generado por los componentes del sistema" 
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Gabinete Antec NX800 WH ARGB incluye 3 fanes",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2021/10/n800w28232_19f03d4645c841099a2ad328a04d878d.jpg"
+		],
+		"price": 145,
+		"currency": "U$S",
+		"category": "pc-box",
+		"sale": 5,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Antec"
+					},
+					{
+						"title": "Modelo",
+						"value": "NX800"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 2008"
+					},
+					{
+						"title": "Descripción",
+						"value": "La carcasa para juegos NX800 White de media torre combina sin esfuerzo una gran cantidad de características en demanda: conectividad USB 3.0, amplias bahías para unidades de almacenamiento, espacio para expansión e incluye 2 ventiladores ARGB de 200 mm en la parte delantera y 2 ventiladores ARGB de 140 mm en la parte superior. & 1 ventilador ARGB de 140 mm en la parte trasera. Con soporte para un radiador de refrigeración líquida de hasta 360 mm en la parte delantera y un radiador de 280 en la parte superior, NX800 White es fácil de construir y fácil de enfriar." 
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Gabinete Antec NX800 PK ARGB",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/06/4743_1_a97236d6f4a146f89d76274915b98aa3.jpg"
+		],
+		"price": 145,
+		"currency": "U$S",
+		"category": "pc-box",
+		"sale": 0,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Antec"
+					},
+					{
+						"title": "Modelo",
+						"value": "NX800"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 2008"
+					},
+					{
+						"title": "Descripción",
+						"value": "La carcasa para juegos NX800 Pink de media torre combina sin esfuerzo una gran cantidad de características en demanda: conectividad USB 3.0, amplias bahías para unidades de almacenamiento, espacio para expansión e incluye 2 ventiladores ARGB de 200 mm en la parte delantera y 2 ventiladores ARGB de 140 mm en la parte superior. & 1 ventilador ARGB de 140 mm en la parte trasera. Con soporte para un radiador de refrigeración líquida de hasta 360 mm en la parte delantera y un radiador de 280 en la parte superior, NX800 Pink es fácil de construir y fácil de enfriar" 
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Gabinete Deepcool New Ark 90se",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2020/07/descarga.jpg"
+		],
+		"price": 180,
+		"currency": "U$S",
+		"category": "pc-box",
+		"sale": 10,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Deepcool"
+					},
+					{
+						"title": "Modelo",
+						"value": "New Ark 90se"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 2008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Iluminación ADD-RGB expandible controlada por los botones manuales o la placa base SYNC Compartimento ultra ancho de la torre de 230 mm con espacio libre de 25 mm para la gestión de cables" 
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Gabinete NZXT H510 Elite Black/White",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/09/4656_3_5627e12170494cfea0d153d13bbbf212.jpg"
+		],
+		"price": 198,
+		"currency": "U$S",
+		"category": "pc-box",
+		"sale": 0,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "NZXT"
+					},
+					{
+						"title": "Modelo",
+						"value": "H510 Elite"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 2008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Con un panel frontal de cristal templado que muestra los ventiladores AER 2 RGB incluidos, mantiene las características para un fácil montaje que ofrece la serie compacta H510" 
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Gabinete Cooler Master Cosmos C700M",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2020/05/gabinete-cooler-master-cosmos-c700m-rgb-full-tower-gamer-D_NQ_NP_789987-MLU32033414224_092019-F.jpg"
+		],
+		"price": 699,
+		"currency": "U$S",
+		"category": "pc-box",
+		"sale": 20,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Master"
+					},
+					{
+						"title": "Modelo",
+						"value": "Cosmos C700M"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 2008"
+					},
+					{
+						"title": "Descripción",
+						"value": "Muy bonito este gabinete" 
+					}
+				]
+			}
+		]
+	},
 	{
 		"title": "Gabinete Cooler Master H500P ARGB",
 		"images": [
