@@ -43,6 +43,945 @@
 			}
 		]
 	},
+
+	{
+		"title": "Smart TV Full HD 1080p de 40 pulgadas con Apple",
+		"images": [
+			"https://images-ti-vm1.tiendainglesa.com.uy/large/P533652-1.jpg",
+			"https://images-ti-vm1.tiendainglesa.com.uy/large/P533652-3.jpg",
+			"https://images-ti-vm1.tiendainglesa.com.uy/large/P533652-2.jpg"
+		],
+		"price": 198,
+		"currency": "U$S",
+		"category": "monitor",
+		"sale": 15,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Apple"
+					},
+					{
+						"title": "Modelo",
+						"value": "40 pulgadas"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "1 año"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 2179"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 4008"
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Smart Tv SAMSUNG 55\" LED UHD Crystal Processor 4K",
+		"images": [
+			"https://m.media-amazon.com/images/I/81YMd8mWQ+L._AC_SX466_.jpg",
+			"hhttps://m.media-amazon.com/images/I/817gIftYrrL._AC_SX466_.jpg",
+			"https://m.media-amazon.com/images/I/81te0KDnfXL._AC_SX466_.jpg"
+		],
+		"price": 827,
+		"currency": "U$S",
+		"category": "monitor",
+		"sale": 6,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "SAMSUNG"
+					},
+					{
+						"title": "Modelo",
+						"value": "UN55BU8000"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "1 año"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 2179"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 4008"
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Paquete de televisión inteligente Amazon Fire TV 4-Series de 55 en 4K UHD",
+		"images": [
+			"https://m.media-amazon.com/images/I/61+sxLFY3kL._AC_SX679_.jpg",
+			"https://m.media-amazon.com/images/I/5110-aLE0IL._AC_SX679_.jpg",
+			"https://m.media-amazon.com/images/I/51Knrx1aK2L._AC_SX679_.jpg"
+		],
+		"price": 385,
+		"currency": "U$S",
+		"category": "monitor",
+		"sale": 0,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Amazon"
+					},
+					{
+						"title": "Modelo",
+						"value": "Fire TV 4-Series"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "24 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 2179"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 4008"
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Sony OLED BRAVIA XR A80K Series 4K Ultra HD TV de 77",
+		"images": [
+			"https://m.media-amazon.com/images/I/81U4zRfwsfL._AC_SX466_.jpg",
+			"https://m.media-amazon.com/images/I/81dp9ry1mNL._AC_SX466_.jpg",
+			"https://m.media-amazon.com/images/I/71VF0Fxkl6L._AC_SX466_.jpg"
+		],
+		"price": 1500,
+		"currency": "U$S",
+		"category": "monitor",
+		"sale": 10,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Sony"
+					},
+					{
+						"title": "Modelo",
+						"value": "R A80K"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 2179"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 4008"
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Mouse Razer DeathAdder V2 Lite",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2019/05/deathadderv2pro.png",
+			"https://thotcomputacion.com.uy/wp-content/uploads/2019/10/5756586deathadder_5ff3e951532340a68ad2ba68a699fe6c-1.png"
+		],
+		"price": 30,
+		"currency": "U$S",
+		"category": "peripheral",
+		"sale": 10,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Razer"
+					},
+					{
+						"title": "Modelo",
+						"value": "V2 Lite"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "3 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					}
+				]
+			}
+		]
+	},
+
+	{
+		"title": "Mouse Hyperx Pulsefire Haste Wireless White",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/11/5034_1_83caa0494466455bb21876da1a936838.jpg",
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/11/5034_1_83caa0494466455bb21876da1a936838-1.jpg"
+		],
+		"price": 79,
+		"currency": "U$S",
+		"category": "peripheral",
+		"sale": 15,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": " Hyperx"
+					},
+					{
+						"title": "Modelo",
+						"value": "Wireless White"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "6 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Mouse Redragon Invader M719",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/12/5071_1_de1e57b8e66a4dc9bdb657864bc53ae9.jpg"
+		],
+		"price": 20,
+		"currency": "U$S",
+		"category": "peripheral",
+		"sale": 0,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Redragon"
+					},
+					{
+						"title": "Modelo",
+						"value": "M719"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "1 año"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Montevideo 3079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Gigabyte B450M DS3H",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2018/11/B450m.jpg"
+		],
+		"price": 95,
+		"currency": "U$S",
+		"category": "motherboard",
+		"sale": 5,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Gigabyte"
+					},
+					{
+						"title": "Modelo",
+						"value": "B450M"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "6 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					}
+				]
+			}
+		]
+	},
+
+	{
+		"title": "Asus ROG Strix B660-A Gaming WiFi D4",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/03/b660-a20670_2baf4a62a6dd42eb81ceab3818b7dde3.jpg"
+		],
+		"price": 325,
+		"currency": "U$S",
+		"category": "motherboard",
+		"sale": 25,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Asus"
+					},
+					{
+						"title": "Modelo",
+						"value": "B660-A"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "24 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					}
+				]
+			}
+		]
+	},
+
+	{
+		"title": "Mother Asrock X670e PG Lighting R7 AM5 DDR5",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/09/4926_1_0bc61ba1e03742c29198d4952e30c2b2.png"
+		],
+		"price": 510,
+		"currency": "U$S",
+		"category": "motherboard",
+		"sale": 15,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Asrock"
+					},
+					{
+						"title": "Modelo",
+						"value": "Lighting R7 AM5 DDR5"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "AMD Ryzen 5 5600G con Gráficos Radeon",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2021/08/R525205600x73338_2ace32de00ca4c9a8f09b21bb3573908.jpg"
+		],
+		"price": 245,
+		"currency": "U$S",
+		"category": "cpu",
+		"sale": 0,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "AMD"
+					},
+					{
+						"title": "Modelo",
+						"value": "Ryzen 5 5600G"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "NUEVO AMD Ryzen 9 7950X AM5",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/10/4961_1_ed639f06efaa4bed83d6dfda93c467f4.jpg"
+		],
+		"price": 1100,
+		"currency": "U$S",
+		"category": "cpu",
+		"sale": 0,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "AMD"
+					},
+					{
+						"title": "Modelo",
+						"value": "Ryzen 9 7950X"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 3008"
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "CPU Intel Core i9 13900K Raptor Lake 1700",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/10/4987_1_44a98544508542ec8a4d324d0090ed74.jpg"
+		],
+		"price": 929,
+		"currency": "U$S",
+		"category": "cpu",
+		"sale": 0,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Intel"
+					},
+					{
+						"title": "Modelo",
+						"value": "i9 13900K"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "6 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 2008"
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "GPU Zotac GeForce RTX 4090 Trinity OC 24Gb",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/11/5044_1_ceee489024014de5850aa280a344beb4.jpg"
+		],
+		"price": 2825,
+		"currency": "U$S",
+		"category": "gpu",
+		"sale": 0,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "GeForce"
+					},
+					{
+						"title": "Modelo",
+						"value": "RTX 4090"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 2008"
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "GPU Palit GeForce RTX 3080TI GameRock 12Gb GDDR6X",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/09/4803_29587608f85444dc39949e1e3f59cdd41.webp"
+		],
+		"price": 1495,
+		"currency": "U$S",
+		"category": "gpu",
+		"sale": 10,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Palit"
+					},
+					{
+						"title": "Modelo",
+						"value": "RTX 3080TI"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "6 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 2008"
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "ASUS DUAL RX6700XT 12Gb",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2021/05/descarga25202528825299379_0801a2127f38434ebd42daf8b641acbc.png"
+		],
+		"price": 790,
+		"currency": "U$S",
+		"category": "gpu",
+		"sale": 20,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "ASUS"
+					},
+					{
+						"title": "Modelo",
+						"value": "RX6700XT"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": " meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 2008"
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Gabinete Cooler Master Cosmos C700M",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2020/05/gabinete-cooler-master-cosmos-c700m-rgb-full-tower-gamer-D_NQ_NP_789987-MLU32033414224_092019-F.jpg"
+		],
+		"price": 699,
+		"currency": "U$S",
+		"category": "pc-box",
+		"sale": 10,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Cooler"
+					},
+					{
+						"title": "Modelo",
+						"value": "C700M"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "3 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 2008"
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Gabinete NZXT H710i Black/Red",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/04/4660_1_9021cef659f44d549e7cf8581bf0074a.jpg"
+		],
+		"price": 259,
+		"currency": "U$S",
+		"category": "pc-box",
+		"sale": 5,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "NZXT"
+					},
+					{
+						"title": "Modelo",
+						"value": "H710i"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "6 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 2008"
+					}
+				]
+			}
+		]
+	},
+
+	{
+		"title": "Gabinete Cooler Master H500P ARGB",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2020/08/h500p_argb_gallery_06-zoom-768x768.png"
+		],
+		"price": 250,
+		"currency": "U$S",
+		"category": "pc-box",
+		"sale": 30,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Cooler"
+					},
+					{
+						"title": "Modelo",
+						"value": "H500P"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "9 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 2008"
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Notebook Gigabyte AERO I7 12700H/16Gb/SSD 1Tb/RTX3070ti/16″ OLED/W11",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2022/05/4717_1_f828e37dda124648add9cac4a99d8c24.jpg"
+		],
+		"price": 2999,
+		"currency": "U$S",
+		"category": "laptop",
+		"sale": 5,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Gigabyte"
+					},
+					{
+						"title": "Modelo",
+						"value": "AERO I7"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "24 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 2008"
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Notebook Asus ROG G513QY-HF017T R9 5900HX/16Gb/SSD 1Tb/RX 6800M/ W10",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2021/12/G513-4.png"
+		],
+		"price": 2900,
+		"currency": "U$S",
+		"category": "laptop",
+		"sale": 0,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Asus"
+					},
+					{
+						"title": "Modelo",
+						"value": "G513QY-HF017T"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "24 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 2008"
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Notebook Asus ROG G513RW Ryzen 9 6900HX/16Gb DDR5/SSD 1Tb/RTX3060",
+		"images": [
+			"https://thotcomputacion.com.uy/wp-content/uploads/2021/07/ASUS_ROG2.png"
+		],
+		"price": 2145,
+		"currency": "U$S",
+		"category": "laptop",
+		"sale": 5,
+		"specs": [
+			{
+				"title": "Especificaciones generales",
+				"details": [
+					{
+						"title": "Marca",
+						"value": "Asus"
+					},
+					{
+						"title": "Modelo",
+						"value": "G513RW"
+					}
+				]
+			},
+			{
+				"title": "Garantía",
+				"details": [
+					{
+						"title": "Duración",
+						"value": "18 meses"
+					},
+					{
+						"title": "Dirección Service",
+						"value": "Canelones 1079"
+					},
+					{
+						"title": "Teléfono",
+						"value": "2400 2008"
+					}
+				]
+			}
+		]
+	},
 	{
 		"title": "Monitor Curvo SAMSUNG 24 Full HD",
 		"images": [

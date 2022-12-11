@@ -36,8 +36,6 @@ const getProduct = async (req, res, next) => {
       .exec()
 
     const count = await Product.find(search).countDocuments()
-    console.log(search)
-    console.log(products)
     res.json({
       products,
       totalPages: Math.ceil(count / limit),

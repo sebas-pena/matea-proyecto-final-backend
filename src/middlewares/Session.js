@@ -1,20 +1,18 @@
-const userModel = require("../models/user")
-const { verifyToken } = require("../utils/handleJWT")
+const USER = require("../models/user")
+const { parseToken } = require("../utils/handleJWT")
 
-const session = async (req, res, next) => {
-
-  const accessToken = req.headers['authorization']
+const Session = async (req, res, next) => {
+  const accessToken = req.headers['authorization'].split(" ").pop()
   if (!accessToken) next({ statusCode: 403, message: 'access denied' });
-
-  jwt.verify(accessToken, process.env.JWT_SECRET, (err, user) => {
-    if (err) {
-      console.log(user)
-      req.user = user
-      next()
-    } else {
-      next({ statusCode: 403, message: 'Exito' })
-    }
-  })
+  const payload = parseToken(accessToken)
+  console.log(payload)
+  if (payload) {
+    const user = await USER.findById(payload.user._id)
+    req.user = user
+    next()
+  } else {
+    next({ statusCode: 403, message: 'access denied' })
+  }
 }
 
-module.exports = session
+module.exports = { Session }

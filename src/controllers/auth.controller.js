@@ -1,25 +1,23 @@
-const Users = require("../models/user")
+const USER = require("../models/user")
+const CART = require("../models/cart")
 const { signToken } = require("../utils/handleJWT")
 
 const singup = (req, res, next) => {
   const { username, email, password, direction } = req.body
-  const user = new Users({ username, email, password, direction })
 
-  user.save((err) => {
-    if (err) {
-      console.log(err)
-      next({ statusCode: 500, message: "ERROR AL REGISTRAR AL USUSARIO" })
-    } else {
-      const { password, ...userProps } = user._doc
-      const token = signToken(userProps)
-      res.status(201).json({ access_token: token })
-    }
-  })
+  USER.create({ username, email, password, direction })
+    .then(user => {
+      CART.create({ uid: user._id }).then(cart => {
+        const { password, ...userProps } = user._doc
+        const token = signToken(userProps)
+        res.status(201).json({ access_token: token })
+      })
+    })
 }
 
 const login = (req, res, next) => {
   const { email, password } = req.body
-  Users.findOne({ email }, (err, user) => {
+  USER.findOne({ email }, (err, user) => {
     if (err) {
       next({ message: "Internal server error." })
     } else if (!user) {

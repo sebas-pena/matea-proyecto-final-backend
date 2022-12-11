@@ -9,35 +9,16 @@ const signToken = (user) =>
     JWT_SECRET
   )
 
-const verifyToken = (token) => {
+const parseToken = (token) => {
   try {
     return jwt.verify(token, JWT_SECRET)
   } catch (e) {
+    console.log(e)
     return null
   }
 }
 
 module.exports = {
   signToken,
-  verifyToken,
+  parseToken,
 }
-
-
-/* 
-
-function validateToken(req, res, next) => {
-    const accessToken = req.headers['authorization']
-    if (!accessToken) res.status(403).json({ msg: 'access denied' });
-
-    jwt.verify(accessToken, process.env.JWT_SECRET, (err, user) => {
-        if (err) {
-            res.send('Access denied token incorrect')
-        } else {
-            console.log(req.user + 'aqui validacion')
-            res.status(200).json({ msg: 'Exito' })
-            next()
-        }
-    })
-}
-
-*/
