@@ -28,7 +28,7 @@ const getProduct = async (req, res, next) => {
       search.sale = { $gt: 0 }
     }
     if (q !== undefined && q !== "") {
-      search.title = { $regex: new RegExp(q, "i") }
+      search.$or = [{ title: { $regex: new RegExp(q, "i") } }, { brand: { $regex: new RegExp(q, "i") } }, { model: { $regex: new RegExp(q, "i") } }]
     }
     const products = await Product.find(search)
       .limit(limit * 1)
