@@ -1,18 +1,29 @@
 const USER = require("../models/user")
 const CART = require("../models/cart")
+const bcrypt = require("bcrypt")
 const { signToken } = require("../utils/handleJWT")
 
 const singup = (req, res, next) => {
-  const { username, email, password, direction } = req.body
+  const { username, email, password } = req.body
+  bcrypt.hash(password, 8, (err, hashedPassword) => {
+    if (err) {
+      next(err)
+    } else {
+      USER.create({ username, email, password: hashedPassword })
+        .then(user => {
+          CART.create({ uid: user._id }).then(cart => {
+            const { password, ...userProps } = user._doc
+            const token = signToken(userProps)
+            res.status(201).json({ access_token: token })
+          })
+        }).catch((e) => {
+          console.log(e)
+          next({ message: "internal server error" })
+        }
+        )
+    }
+  })
 
-  USER.create({ username, email, password, direction })
-    .then(user => {
-      CART.create({ uid: user._id }).then(cart => {
-        const { password, ...userProps } = user._doc
-        const token = signToken(userProps)
-        res.status(201).json({ access_token: token })
-      })
-    })
 }
 
 const login = (req, res, next) => {
@@ -23,17 +34,14 @@ const login = (req, res, next) => {
     } else if (!user) {
       next({ statusCode: 401, message: "Wrong credentials." })
     } else {
-      user.comparePasswords(password, (err, result) => {
-        if (err) {
-          console.log(err)
-          next({ statusCode: 500 })
-        } else if (result) {
+      bcrypt.compare(password, user.password, (err, result) => {
+        if (err) next(err)
+        if (result) {
           const { password, ...userProps } = user._doc
           const token = signToken(userProps)
           res.status(200).json({ access_token: token })
-        } else {
-          next({ statusCode: 401, message: "Wrong credentials." })
         }
+        else next({ statusCode: 401, message: "Wrong credentials." })
       })
     }
   })

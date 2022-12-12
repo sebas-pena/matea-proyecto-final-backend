@@ -26,6 +26,10 @@ const ProductSchema = new Schema({
     type: Number,
     default: 0
   },
+  description: {
+    type: String,
+    default: ""
+  },
   category: String,
   specs: {
     type: [
@@ -40,24 +44,5 @@ const ProductSchema = new Schema({
     default: []
   }
 })
-/* 
-{
-    title: "Garantía",
-    details: [
-      {
-        title: "Duración",
-        value: "1 año",
-      },
-      {
-        title: "Dirección Service",
-        value: "Canelones 2179",
-      },
-      {
-        title: "Teléfono",
-        value: "2400 4008",
-      },
-    ],
-  },
-*/
 
 module.exports = model("Product", ProductSchema)

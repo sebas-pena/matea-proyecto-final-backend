@@ -1,18 +1,22 @@
 const CART = require("../models/cart")
 
-const addToCart = (req, res, next) => {
+const updateCart = (req, res, next) => {
   const uid = req.user._id
-  const { productId } = req.body
+  let { productId, units } = req.body
   CART.findOne({ uid })
     .then(cart => {
+      if (!cart) {
+        next({ statusCode: 401, message: "Unauthorized." })
+        return
+      }
       const product = cart.products.find(product => product.productId == productId)
-      if (product) {
-        CART.findOneAndUpdate({ uid, "products.productId": productId },
+
+      if (product && units < 0) {
+        CART.findOneAndUpdate({ uid },
           {
-            $set: {
-              "products.$": {
+            $pull: {
+              products: {
                 productId,
-                units: req.body.units || ++product.units
               }
             }
           },
@@ -23,14 +27,32 @@ const addToCart = (req, res, next) => {
             res.status(200).json(cart)
           })
           .catch(console.log)
-      }
-      else {
+      } else if (product) {
+        if (units === undefined) units = product.units++
+        CART.findOneAndUpdate({ uid, "products.productId": productId },
+          {
+            $set: {
+              "products.$": {
+                productId,
+                units
+              }
+            }
+          },
+          { new: true }
+        )
+          .populate("products.product", { _id: 0 })
+          .then(cart => {
+            res.status(200).json(cart)
+          })
+          .catch(console.log)
+      } else {
+        if (units === undefined) units = 1
         CART.findOneAndUpdate({ uid },
           {
             $push: {
               products: {
                 productId,
-                units: req.body.units || 1
+                units
               }
             }
           },
@@ -52,6 +74,6 @@ const getCart = (req, res, next) => {
 }
 
 module.exports = {
-  addToCart,
-  getCart
+  updateCart,
+  getCart,
 }
