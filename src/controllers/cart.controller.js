@@ -28,7 +28,7 @@ const updateCart = (req, res, next) => {
           })
           .catch(console.log)
       } else if (product) {
-        if (units === undefined) units = product.units++
+        if (units === undefined) units = ++product.units
         CART.findOneAndUpdate({ uid, "products.productId": productId },
           {
             $set: {

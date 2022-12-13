@@ -10,12 +10,7 @@ const signToken = (user) =>
   )
 
 const parseToken = (token) => {
-  try {
-    return jwt.verify(token, JWT_SECRET)
-  } catch (e) {
-    console.log(e)
-    return null
-  }
+  return jwt.verify(token, JWT_SECRET)
 }
 
 module.exports = {
