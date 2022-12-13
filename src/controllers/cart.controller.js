@@ -73,7 +73,20 @@ const getCart = (req, res, next) => {
     .then(cart => res.status(200).json(cart))
 }
 
+const setCart = (req, res, next) => {
+  CART.findOneAndUpdate({ uid: req.user._id }, {
+    $set: {
+      products: req.body
+    }
+  }, { new: true })
+    .populate("products.product", { _id: 0 })
+    .then(cart => {
+      res.status(200).json(cart)
+    })
+}
+
 module.exports = {
   updateCart,
   getCart,
+  setCart
 }
